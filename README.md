@@ -1,2 +1,2 @@
-# fastapi_blog_api
-blog api with fastapi
+# fastapi blog api
+gugu :3
